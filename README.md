@@ -81,4 +81,4 @@ To learn more about React Native, take a look at the following resources:
 
 example image 
 
-![example of textbox and button]([http://url/to/img.png](https://github.com/sarveshhome/ReactNativeButton/blob/main/assets/images/textboxAndButton.png))
+![example of textbox and button](https://github.com/sarveshhome/ReactNativeButton/blob/main/assets/images/textboxAndButton.png?raw=true)
