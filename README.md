@@ -82,3 +82,9 @@ To learn more about React Native, take a look at the following resources:
 example image 
 
 ![example of textbox and button](https://github.com/sarveshhome/ReactNativeButton/blob/main/assets/images/textboxAndButton.png?raw=true)
+
+
+`npx react-native doctor`
+
+
+`export ANDROID_HOME=/Users/sarveshkumar/Library/Android/sdk`
